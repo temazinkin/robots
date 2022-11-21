@@ -80,7 +80,7 @@
 ```java
 package practival_work;
 import robocode.*;
-import java.awt.*;
+import java.awt.Color;
 
 public class ФАМИЛИЯ extends Robot
 {
